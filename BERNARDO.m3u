@@ -1,0 +1,176 @@
+#EXTM3U
+
+############################################################################ Informações
+
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",12/02/2024 as 20h:30min
+https://dc725.4shared.com/img/x_xh3ZiZge/8b73cc8c/dlink__2Fdownload_2Fx_5Fxh3ZiZge_3Fsbsr_3Dffaeace983a563255cb41662fdf07180b01_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.b5c15479ca332d187f11c808a192b260_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" group-title="TELEGRAM | ENTRE EM CONTATO PELO TELEGRAM",@LIYANGBR
+https://dc725.4shared.com/img/x_xh3ZiZge/8b73cc8c/dlink__2Fdownload_2Fx_5Fxh3ZiZge_3Fsbsr_3Dffaeace983a563255cb41662fdf07180b01_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.b5c15479ca332d187f11c808a192b260_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
+
+############################################################################ Canais | ABERTO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ssxkJ3a.png" group-title="Canais | ESPORTES",World Poker Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="FUEL TV" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="Canais | ESPORTES",FUEL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",REDE TV! MAIS UMUARAMA
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",REDE TV! PARANÁ
+https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nnefnDe.png" group-title="Canais | ABERTO",REDE TV! (TV O Dia PI)
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w2113723359.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HSRreF9.png" group-title="Canais | ABERTO",REDE TV! TOCANTINS
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZC94ai.png" group-title="Canais | ABERTO",BAND SP
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255467
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZC94ai.png" group-title="Canais | ABERTO",BAND SP HD
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o8atZv4.png" group-title="Canais | ABERTO",TV Vale do Uruará PA - BAND
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZC94ai.png" group-title="Canais | ABERTO",Band Minas
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZC94ai.png" group-title="Canais | ABERTO",Band Minas HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255483
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TR6ynSo.png" group-title="Canais | ABERTO",RECORD
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TR6ynSo.png" group-title="Canais | ABERTO",RECORD SP
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244076
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GAe6v2.png" group-title="Canais | ABERTO",TV Amplitude Juara MT - RECORD
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yDYeTi.png" group-title="Canais | ABERTO",TV Amplitude Juína MT - RECORD
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA HD
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo SP SD
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLnwV8c.png" group-title="Canais | ABERTO",VTV SBT HD
+https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT RJ
+https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT Interior 
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | REALITY",SONY ONE SHARK TANK
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
+https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
+ 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT SD
+https://cdn-1.nxplay.com.br/TNT_TK//tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E SD
+https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E HD
+http://cdn.connectbr.com.br/AE/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN SD
+https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD 
+https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="Canais | FILMES E SERIES",Sony Channel HD
+https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova
+https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="Brasil: esportes e e-sports",World Poker Tour | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="Brasil: esportes e e-sports",World Poker Tour | Pluto TV Brasil | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1, ANIMAL PLANET
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1, AXN
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+
+#EXTINF:-1, BAND
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+
+#EXTINF:-1, Discovery Channel
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
+#EXTINF:-1, Discovery Home & Health
+https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+
+#EXTINF:-1, Discovery Kids
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+
+#EXTINF:-1, Discovery Science
+https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1, Discovery Theater
+https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+
+#EXTINF:-1, Discovery Turbo
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+
+#EXTINF:-1, Discovery World
+https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+#EXTINF:-1, History
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1, History 2
+https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
+
+#EXTINF:-1, Sony
+https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1, Space
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+
+#EXTINF:-1, History
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1, History 2
+https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
+
+#EXTINF:-1, Animal Planet
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 format="auto" tvg-id="DiscoveryTurbo.ar" group-title="Moᴛoʀs Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Discovery%20Turbo.png",Discovery Turboᴴᴰ 🇧🇷
+http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppym5u9.png" group-title="Canais | ESPORTES",OFF
+https://8mwx.short.gy/CANALOFF/index.m3u8
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/686
+
+
+
+
+
+
+
